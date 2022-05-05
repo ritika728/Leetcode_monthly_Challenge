@@ -1,2 +1,4 @@
-# Leetcode_May_Challenge
-Here, I will be updating my solutions of the Leetcode May challenge 2022 regularly and consistently. 
+# Leetcode May Challenge
+We lack consistency due to various distractions, right?  
+So here,I have started with the Leetcode May Challenge to practice regularly without an accountability of updating the solutions here everyday.   
+Now onwards, I will be updating my solutions of the Leetcode May challenge consistently. 
