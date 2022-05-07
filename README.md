@@ -10,3 +10,4 @@ Any suggestions are welcomed :) Happy Learning!
 * [Day 4](https://leetcode.com/problems/max-number-of-k-sum-pairs/)
 * [Day 5](https://leetcode.com/problems/implement-stack-using-queues/)
 * [Day 6](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+* [Day 7](https://leetcode.com/problems/132-pattern/)  
