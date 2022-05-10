@@ -29,5 +29,6 @@ public:
     
 };
 ```
-Was an interesting one. I took quite a long time though.
+Was an interesting one. I took quite a long time though.  
+Runtime: 0 ms, faster than 100.00% of C++ online submissions for Letter Combinations of a Phone Number 💫
 
