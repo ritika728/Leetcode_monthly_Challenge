@@ -1,3 +1,4 @@
+```c++
 class Solution {
 public:
     int countSubstrings(string s) {
@@ -9,3 +10,4 @@ public:
 	return cnt;
 }
 };
+```
